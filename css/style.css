@@ -9,10 +9,17 @@
     /*box-shadow: 3px 6px #88888825;*/
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
-
 .box-left h3 {
-    color:#6f42c1 ;
     font-size: x-large !important;
+    color: rgb(63, 62, 62);
+   
+}
+.box-left p{
+    color: grey;
+}
+.box-left h4 {
+    color:#6f42c1 ;
+   /* font-size: x-large !important;*/
 }
 .box-left hr{
    color:  #6f42c1 ;
@@ -25,4 +32,14 @@
     border-radius: 5px;
    /* box-shadow: 3px 6px #88888825;*/
    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.box-rigth h3{
+    color:#6f42c1 ;
+    font-size: x-large !important;
+    
+}
+.box-rigth hr{
+   
+    color:  #6f42c1 ;
 }
